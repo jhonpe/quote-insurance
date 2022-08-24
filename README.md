@@ -1,4 +1,4 @@
-# Cotizador de Seguro
+# Cotizador de Seguros de Auto
 
 [Proyecto ](https://quote-insurance.vercel.app/)
 
